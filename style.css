@@ -17,6 +17,7 @@ body {
 }
 .whole{
 	position: relative;
+	text-align: center;
 }
 .container {
 	position: relative;
